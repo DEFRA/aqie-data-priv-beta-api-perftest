@@ -1,4 +1,4 @@
-# cdp-perf-test-suite-template
+# aqie-data-priv-beta-api-perftest
 
 A JMeter based test runner for the CDP Platform.
 
